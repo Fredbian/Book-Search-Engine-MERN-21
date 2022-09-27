@@ -44,7 +44,17 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 ```
 
 ## Installation and Start
+* To Install this application, run `git clone` command, to clone the main branch.
 
+* Once cloned, run the following command to install dependencies
+```
+npm install
+```
+
+* To run this app on your local browser, go to the root directory and run following command:
+```
+npm run develop
+```
 
 
 ## Screenshots
