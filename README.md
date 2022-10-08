@@ -58,9 +58,9 @@ npm run develop
 
 
 ## Screenshots
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
+![Screenshot](https://github.com/Fredbian/Book-Search-Engine-MERN-21/blob/main/client/public/book-search-engine-mern-21.herokuapp.com_%20(1).png)
+![Screenshot](https://github.com/Fredbian/Book-Search-Engine-MERN-21/blob/main/client/public/book-search-engine-mern-21.herokuapp.com_%20(2).png)
+![Screenshot](https://github.com/Fredbian/Book-Search-Engine-MERN-21/blob/main/client/public/book-search-engine-mern-21.herokuapp.com_.png)
 
 
 ## URLs
