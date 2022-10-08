@@ -65,4 +65,4 @@ npm run develop
 
 ## URLs
 * Github: https://github.com/Fredbian/Book-Search-Engine-MERN-21
-* Heroku deployed link: 
+* Heroku deployed link: https://book-search-engine-mern-21.herokuapp.com/ 
