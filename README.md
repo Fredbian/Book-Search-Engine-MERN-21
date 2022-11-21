@@ -56,6 +56,14 @@ npm install
 npm run develop
 ```
 
+## Technical
+* Node.js
+* React
+* JWT
+* JavaScript
+* CSS
+* MongoDB
+* GraphQL
 
 ## Screenshots
 ![Screenshot](https://github.com/Fredbian/Book-Search-Engine-MERN-21/blob/main/client/public/book-search-engine-mern-21.herokuapp.com_%20(1).png)
